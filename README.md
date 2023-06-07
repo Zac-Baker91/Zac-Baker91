@@ -1,11 +1,11 @@
 ## Hi, I'm Zac Baker 👋
 *The primary purpose of this profile is to display code examples to prospective employers.  It also serves as storage for my personal projects.*
 
-**School Directory**
+**School Repo**
 : *some my code from undergraduate studies* 
 
-**Personal Directory**
-: *public and private repos for things I work on in my 
+**Other Repos**
+: *repos for things I work on in my 
 free-time*
 
 ### Contacts 📫
