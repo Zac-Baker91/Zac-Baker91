@@ -5,7 +5,7 @@
 : *some of my code from undergraduate studies* 
 
 **Other Repos**
-: *repos for things I'm work on in my 
+: *repos for things I'm working on in my 
 free-time*
 
 ### Contacts 📫
