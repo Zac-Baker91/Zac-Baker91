@@ -2,10 +2,10 @@
 *The primary purpose of this profile is to display code examples to prospective employers.  It also serves as storage for my personal projects.*
 
 **School Repo**
-: *some my code from undergraduate studies* 
+: *some of my code from undergraduate studies* 
 
 **Other Repos**
-: *repos for things I work on in my 
+: *repos for things I'm work on in my 
 free-time*
 
 ### Contacts 📫
