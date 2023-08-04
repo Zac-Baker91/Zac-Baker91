@@ -11,7 +11,7 @@ free-time*
 ### Contacts 📫
 Email: zbaker.it@gmail.com
 
-LinkdIn: @[zbaker-it](www.linkedin.com/in/zbaker-it/)
+LinkdIn: @[zbaker-it]([https://www.linkedin.com/in/zbaker-it/)
 
 <!---
 Zac-Baker91/Zac-Baker91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
